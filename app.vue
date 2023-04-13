@@ -1,3 +1,12 @@
+<script lang="ts" setup>
+useHead({
+  title: 'NFT Preview Card | Frontend Mentor',
+  meta: [
+    { name: 'description', content: 'Solution by Rey Garcia' }
+  ],
+})
+</script>
+
 <template>
   <div class="main">
     <NFTPreviewCard />
